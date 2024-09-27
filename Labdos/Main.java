@@ -32,6 +32,8 @@ public class Main
     }
     
     public static void mainHola (String[] args){
+        String nombre; 
+        int numero; 
     
     }
 }
